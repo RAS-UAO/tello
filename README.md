@@ -3,7 +3,7 @@ Tello is a mini-drone from DJI:
 
 ![images](https://github.com/user-attachments/assets/d93c2721-7a1e-4f18-a25a-a3d25786c33e)
 
-Thanks to @ for his contributions for this guide, as he developed the base code for this
+Thanks to @YxxsebasYxx for his contributions for this guide, as he developed the base code for this
 
 ## How to charge the Tello
 To charge the Tello, the drone just needs to be connected to the user's PC through its default micro-USB cable. 
